@@ -1,0 +1,426 @@
+[
+  {
+    "2022": 10356500,
+    "name": "Dhaka"
+  },
+  {
+    "2022": 3920222,
+    "name": "Chittagong"
+  },
+  {
+    "2022": 1342339,
+    "name": "Khulna"
+  },
+  {
+    "2022": 700133,
+    "name": "Rajshahi"
+  },
+  {
+    "2022": 389411,
+    "name": "Comilla"
+  },
+  {
+    "2022": 378701,
+    "name": "Shibganj"
+  },
+  {
+    "2022": 369138,
+    "name": "Natore"
+  },
+  {
+    "2022": 343122,
+    "name": "Rangpur"
+  },
+  {
+    "2022": 337579,
+    "name": "Tungi"
+  },
+  {
+    "2022": 281080,
+    "name": "Narsingdi"
+  },
+  {
+    "2022": 266388,
+    "name": "Bagerhat"
+  },
+  {
+    "2022": 253788,
+    "name": "Cox's Bazar"
+  },
+  {
+    "2022": 243987,
+    "name": "Jessore"
+  },
+  {
+    "2022": 238422,
+    "name": "Nagarpur"
+  },
+  {
+    "2022": 237000,
+    "name": "Sylhet"
+  },
+  {
+    "2022": 225126,
+    "name": "Mymensingh"
+  },
+  {
+    "2022": 223622,
+    "name": "Narayanganj"
+  },
+  {
+    "2022": 210000,
+    "name": "Bogra"
+  },
+  {
+    "2022": 206234,
+    "name": "Dinajpur"
+  },
+  {
+    "2022": 202242,
+    "name": "Barisal"
+  },
+  {
+    "2022": 199422,
+    "name": "Saidpur"
+  },
+  {
+    "2022": 192464,
+    "name": "Par Naogaon"
+  },
+  {
+    "2022": 186781,
+    "name": "Pabna"
+  },
+  {
+    "2022": 184492,
+    "name": "Paltan"
+  },
+  {
+    "2022": 180144,
+    "name": "Tangail"
+  },
+  {
+    "2022": 167900,
+    "name": "Jamalpur"
+  },
+  {
+    "2022": 159406,
+    "name": "Puthia"
+  },
+  {
+    "2022": 142361,
+    "name": "Nawabganj"
+  },
+  {
+    "2022": 135724,
+    "name": "Kushtia"
+  },
+  {
+    "2022": 130000,
+    "name": "Sonargaon"
+  },
+  {
+    "2022": 128918,
+    "name": "Satkhira"
+  },
+  {
+    "2022": 127481,
+    "name": "Sirajganj"
+  },
+  {
+    "2022": 112187,
+    "name": "Faridpur"
+  },
+  {
+    "2022": 107419,
+    "name": "Sherpur"
+  },
+  {
+    "2022": 105457,
+    "name": "Bhairab Bazar"
+  },
+  {
+    "2022": 102420,
+    "name": "Shahzadpur"
+  },
+  {
+    "2022": 99079,
+    "name": "Bhola"
+  },
+  {
+    "2022": 96641,
+    "name": "Azimpur"
+  },
+  {
+    "2022": 90690,
+    "name": "Kishorganj"
+  },
+  {
+    "2022": 89030,
+    "name": "Bibir Hat"
+  },
+  {
+    "2022": 88760,
+    "name": "Habiganj"
+  },
+  {
+    "2022": 84789,
+    "name": "Madaripur"
+  },
+  {
+    "2022": 84028,
+    "name": "Feni"
+  },
+  {
+    "2022": 82290,
+    "name": "Laksham"
+  },
+  {
+    "2022": 81995,
+    "name": "Ishurdi"
+  },
+  {
+    "2022": 81325,
+    "name": "Sarishabari"
+  },
+  {
+    "2022": 79016,
+    "name": "Netrakona"
+  },
+  {
+    "2022": 73068,
+    "name": "Joypur Hat"
+  },
+  {
+    "2022": 71096,
+    "name": "Thakurgaon"
+  },
+  {
+    "2022": 67652,
+    "name": "Palang"
+  },
+  {
+    "2022": 65127,
+    "name": "Lalmonirhat"
+  },
+  {
+    "2022": 64652,
+    "name": "Raipur"
+  },
+  {
+    "2022": 62210,
+    "name": "Tungipara"
+  },
+  {
+    "2022": 61703,
+    "name": "Lakshmipur"
+  },
+  {
+    "2022": 57441,
+    "name": "Maulavi Bazar"
+  },
+  {
+    "2022": 56000,
+    "name": "Joymontop"
+  },
+  {
+    "2022": 55241,
+    "name": "Ramganj"
+  },
+  {
+    "2022": 55112,
+    "name": "Narail"
+  },
+  {
+    "2022": 54418,
+    "name": "Pirojpur"
+  },
+  {
+    "2022": 52152,
+    "name": "Sandwip"
+  },
+  {
+    "2022": 52005,
+    "name": "Satkania"
+  },
+  {
+    "2022": 51360,
+    "name": "Patiya"
+  },
+  {
+    "2022": 50364,
+    "name": "Khagrachhari"
+  },
+  {
+    "2022": 49736,
+    "name": "Chilmari"
+  },
+  {
+    "2022": 49425,
+    "name": "Nageswari"
+  },
+  {
+    "2022": 48531,
+    "name": "Panchagarh"
+  },
+  {
+    "2022": 48305,
+    "name": "Uttar Char Fasson"
+  },
+  {
+    "2022": 48020,
+    "name": "Parbatipur"
+  },
+  {
+    "2022": 45670,
+    "name": "Burhanuddin"
+  },
+  {
+    "2022": 45631,
+    "name": "Kaliganj"
+  },
+  {
+    "2022": 45543,
+    "name": "Dohar"
+  },
+  {
+    "2022": 44343,
+    "name": "Hajiganj"
+  },
+  {
+    "2022": 42653,
+    "name": "Bhatpara Abhaynagar"
+  },
+  {
+    "2022": 42220,
+    "name": "Lalmohan"
+  },
+  {
+    "2022": 41957,
+    "name": "Jhingergacha"
+  },
+  {
+    "2022": 41137,
+    "name": "Mirzapur"
+  },
+  {
+    "2022": 40869,
+    "name": "Sakhipur"
+  },
+  {
+    "2022": 40557,
+    "name": "Teknaf"
+  },
+  {
+    "2022": 40519,
+    "name": "Gaurnadi"
+  },
+  {
+    "2022": 40492,
+    "name": "Kalia"
+  },
+  {
+    "2022": 39604,
+    "name": "Bera"
+  },
+  {
+    "2022": 39424,
+    "name": "Mehendiganj"
+  },
+  {
+    "2022": 39335,
+    "name": "Chhagalnaiya"
+  },
+  {
+    "2022": 39218,
+    "name": "Chhatak"
+  },
+  {
+    "2022": 38703,
+    "name": "Nalchiti"
+  },
+  {
+    "2022": 38159,
+    "name": "Bheramara"
+  },
+  {
+    "2022": 37985,
+    "name": "Phultala"
+  },
+  {
+    "2022": 37807,
+    "name": "Baniachang"
+  },
+  {
+    "2022": 36470,
+    "name": "Sarankhola"
+  },
+  {
+    "2022": 35961,
+    "name": "Shibganj"
+  },
+  {
+    "2022": 34606,
+    "name": "Pirgaaj"
+  },
+  {
+    "2022": 34560,
+    "name": "Bajitpur"
+  },
+  {
+    "2022": 34423,
+    "name": "Char Bhadrasan"
+  },
+  {
+    "2022": 34177,
+    "name": "Gafargaon"
+  },
+  {
+    "2022": 32600,
+    "name": "Badarganj"
+  },
+  {
+    "2022": 32523,
+    "name": "Bandarban"
+  },
+  {
+    "2022": 31671,
+    "name": "Nabinagar"
+  },
+  {
+    "2022": 31647,
+    "name": "Morrelgonj"
+  },
+  {
+    "2022": 30926,
+    "name": "Kesabpur"
+  },
+  {
+    "2022": 30219,
+    "name": "Bhandaria"
+  },
+  {
+    "2022": 29760,
+    "name": "Mathba"
+  },
+  {
+    "2022": 25708,
+    "name": "Raojan"
+  },
+  {
+    "2022": 24813,
+    "name": "Manikchari"
+  },
+  {
+    "2022": 24684,
+    "name": "Muktagacha"
+  },
+  {
+    "2022": 6000,
+    "name": "Parvez Ali Family"
+  },
+  {
+    "2022": 6000,
+    "name": "Parvez Ali Hossain"
+  }
+]
